@@ -86,7 +86,7 @@ UХ, IХ – напряжение и ток на хордах
 
 [Топология электрических цепей](https://www.ups-info.ru/for_partners/library/teoreticheskie_osnove_ilektrotehniki_dlya_ibp_ups_/topologiya_ilektricheskih_tsepey/)
 
-[математические модели сложных подсистем](https://vs87.ru/EN/d/theory/electrical/))
+[математические модели сложных подсистем](https://vs87.ru/EN/d/theory/electrical/)
 
 [Математические модели объектов проектирования на макроуровне](//intuit.ru/studies/professional_skill_improvements/21202/courses/227/lecture/5911?page=2)
 
