@@ -77,3 +77,17 @@ UХ, IХ – напряжение и ток на хордах
 
 
 Топологические уравнения – одна из первых ступенек в моделировании. В принципе, в методах анализа и расчета цепей и реализации моделей не сложно разобраться, при условии владения необходимым математическим аппаратом. Проектирование и моделирование сейчас применяются во всех сферах разработки и производства.
+
+## Литература:
+
+[Топологическое описание схем](https://studopedia.ru/3_67248_topologicheskie-matritsi.html)
+
+[Расчет сложных электрических цепей с использованием законов Кирхгофа]( https://eti.su/articles2/raschet-slozhnyh-jelektricheskih-cepej-s-ispolzovaniem-zakonov-kirhgofa/)
+
+[Топология электрических цепей](https://www.ups-info.ru/for_partners/library/teoreticheskie_osnove_ilektrotehniki_dlya_ibp_ups_/topologiya_ilektricheskih_tsepey/)
+
+[математические модели сложных подсистем](https://vs87.ru/EN/d/theory/electrical/))
+
+[Математические модели объектов проектирования на макроуровне](//intuit.ru/studies/professional_skill_improvements/21202/courses/227/lecture/5911?page=2)
+
+[Топологические матрицы]( https://studfile.net/preview/6382910/page:8/)
