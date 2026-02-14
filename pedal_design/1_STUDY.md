@@ -38,17 +38,11 @@
 
 Видно, что R4 влияет на "скругленность", а R5 на амплитуду выходного сигнала. Теперь, попробуем поизменять значения резисторов и конденсаторов (после снятия показаний буду возвращать их к изначальному значению).
 
-<p align="center"><img width="306" height="233" alt="image" src="https://github.com/user-attachments/assets/d089a2d8-2be0-45fb-b7fc-7f48cabe0bcc" /></p>
-<p align="center"> C3 с 22 нФ на 100 нФ</p>
+<p align="center"><img width="306" height="233" alt="image" src="https://github.com/user-attachments/assets/d089a2d8-2be0-45fb-b7fc-7f48cabe0bcc" /><img width="311" height="234" alt="image" src="https://github.com/user-attachments/assets/2b1e6155-0f0a-45d4-9fb0-1ea1d11fc619" /></p>
+<p align="center"> C3 с 22 нФ на 100 нФ, С2 с 100 нФ до 1 нФ</p>
 
-<p align="center"><img width="307" height="237" alt="image" src="https://github.com/user-attachments/assets/dc9c0c56-17f5-4561-8d8f-5cf5f8ae6eea" /></p>
-<p align="center">уберем С3 из цепи</p>
-
-<p align="center"><img width="311" height="234" alt="image" src="https://github.com/user-attachments/assets/2b1e6155-0f0a-45d4-9fb0-1ea1d11fc619" /></p>
-<p align="center">уберем С2 с 100 нФ до 1 нФ</p>
-
-<p align="center"><img width="305" height="230" alt="image" src="https://github.com/user-attachments/assets/c16cf8b8-8ae6-4970-bf92-b21d48d2a950" /></p>
-<p align="center">уберем C2 из цепи</p>
+<p align="center"><img width="307" height="237" alt="image" src="https://github.com/user-attachments/assets/dc9c0c56-17f5-4561-8d8f-5cf5f8ae6eea" /><img width="305" height="230" alt="image" src="https://github.com/user-attachments/assets/c16cf8b8-8ae6-4970-bf92-b21d48d2a950" /></p>
+<p align="center">уберем С3 из цепи, уберем C2 из цепи</p>
 
 Чем больше емкость на C3, тем дольше он заряжается, соотвественно превращая сигнал в пилу. Видно, что от емкости C2 зависит амплитуда.
 
@@ -116,5 +110,23 @@
 Невероятно, но мне пригождаются знания, полученные на лабах!
 
 <p align="center"><img width="1167" height="757" alt="image" src="https://github.com/user-attachments/assets/4bda3b16-0ca2-44d4-bef9-69154f444ee5" /></p>
+
+## Вау вау
+Из выше упомянутого general guitar gadgets взяла вот такую простенькую квакушку. 
+
+<img width="1088" height="633" alt="image" src="https://github.com/user-attachments/assets/0ea56fed-a1fd-4872-87f5-5b1f2533c08e" />
+<p align="center">Схема педали вау вау</p>
+
+Если покрутить потенциометр то начиная с 0 и до 50 процентов амплитуда будет возрастать и с 50 до 100 спадать. При тои показания амплитуды при 0 больше, чем при 100. 
+
+<p align="center"><img width="307" height="234" alt="image" src="https://github.com/user-attachments/assets/d3ae66e6-58f9-4b34-b6b0-211f06809dec" /><img width="306" height="232" alt="image" src="https://github.com/user-attachments/assets/cf451a1f-1007-4e32-8cda-f66c8d94af69" /><img width="308" height="233" alt="image" src="https://github.com/user-attachments/assets/57185927-eed1-4ff6-948d-744714509d7a" />
+</p>
+<p align="center">1)R11 0%, R11 50%, R11 100%</p>
+
+Опять два часа пыталась понять че как тут работает. Со Q2 на Q1 возвращается отрицательную обратную связь через C4, с которым катушка образует колебательный контур. Входной каскад усиливает сигнал обратной связи, из-за чего по идее повышается реактивное сопротивление на C2. [Вот здесь](https://www.electrosmash.com/vox-v847-analysis?utm_medium=organic&utm_source=yandexsmartcamera) я нашла подробное описание работы педали, но мне и без того тяжело вкурить, что происходит, а она еще и на английском. В истрию с импедансом я лезть не очень хочу, думаю, еще успею с ним в более приятной схеме встретиться.
+
+<p align="center"><img width="1177" height="782" alt="image" src="https://github.com/user-attachments/assets/f40342b8-0c6a-41a0-8530-371ba1ca1f1d" /></p>
+
+
 
 
